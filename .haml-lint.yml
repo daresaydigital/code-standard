@@ -1,0 +1,8 @@
+skip_frontmatter: true
+
+linters:
+  ImplicitDiv:
+    enabled: true
+
+  LineLength:
+    max: 160
