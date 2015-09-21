@@ -23,9 +23,13 @@ $RECYCLE.BIN/
 # ## General
 # Build folders should never be comitted
 build/
+dist/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Log Files
 *.log
+
+# Dependency directory
+node_modules/
